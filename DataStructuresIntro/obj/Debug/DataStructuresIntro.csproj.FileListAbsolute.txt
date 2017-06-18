@@ -1,0 +1,9 @@
+c:\users\visitordl6\documents\visual studio 2015\Projects\DataStructuresIntro\DataStructuresIntro\bin\Debug\DataStructuresIntro.exe.config
+c:\users\visitordl6\documents\visual studio 2015\Projects\DataStructuresIntro\DataStructuresIntro\bin\Debug\DataStructuresIntro.exe
+c:\users\visitordl6\documents\visual studio 2015\Projects\DataStructuresIntro\DataStructuresIntro\bin\Debug\DataStructuresIntro.pdb
+c:\users\visitordl6\documents\visual studio 2015\Projects\DataStructuresIntro\DataStructuresIntro\obj\Debug\DataStructuresIntro.csprojResolveAssemblyReference.cache
+c:\users\visitordl6\documents\visual studio 2015\Projects\DataStructuresIntro\DataStructuresIntro\obj\Debug\DataStructuresIntro.exe
+c:\users\visitordl6\documents\visual studio 2015\Projects\DataStructuresIntro\DataStructuresIntro\obj\Debug\DataStructuresIntro.pdb
+C:\Users\Meghana Sagare\Documents\Visual Studio 2015\Projects\DataStructuresIntro\DataStructuresIntro\bin\Debug\DataStructuresIntro.exe.config
+C:\Users\Meghana Sagare\Documents\Visual Studio 2015\Projects\DataStructuresIntro\DataStructuresIntro\obj\Debug\DataStructuresIntro.exe
+C:\Users\Meghana Sagare\Documents\Visual Studio 2015\Projects\DataStructuresIntro\DataStructuresIntro\obj\Debug\DataStructuresIntro.pdb
