@@ -9,7 +9,9 @@ namespace DataStructuresIntro
     public class LinkedList<T>
     {
         public Node<T> head;
-        int count;
+        public Node<T> tail;
+
+        public int count;
 
         public LinkedList()
         {
@@ -24,14 +26,17 @@ namespace DataStructuresIntro
                 head = new Node<T>(value);
                 head.Next = head;
                 head.Prev = head;
+                tail = head;
             }
             else
             {
-                Node<T> temp = head.Prev;
-                Node<T> add = new Node<T>(value, head, temp);
-                temp.Next = add;
+                Node<T> add = new Node<T>(value, head, tail);
+                tail.Next = add;
                 head.Prev = add;
+
+                tail = add;
             }
+                    
             count++;
         }
 

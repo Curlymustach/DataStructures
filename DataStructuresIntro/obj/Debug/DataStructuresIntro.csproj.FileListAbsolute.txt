@@ -10,3 +10,9 @@ C:\Users\Meghana Sagare\Documents\Visual Studio 2015\Projects\DataStructuresIntr
 C:\Users\Meghana Sagare\Documents\Github\DataStructuresIntro\DataStructuresIntro\bin\Debug\DataStructuresIntro.exe.config
 C:\Users\Meghana Sagare\Documents\Github\DataStructuresIntro\DataStructuresIntro\obj\Debug\DataStructuresIntro.exe
 C:\Users\Meghana Sagare\Documents\Github\DataStructuresIntro\DataStructuresIntro\obj\Debug\DataStructuresIntro.pdb
+C:\Users\VisitorDL8\Documents\GitHub\DataStructures\DataStructuresIntro\bin\Debug\DataStructuresIntro.exe.config
+C:\Users\VisitorDL8\Documents\GitHub\DataStructures\DataStructuresIntro\obj\Debug\DataStructuresIntro.exe
+C:\Users\VisitorDL8\Documents\GitHub\DataStructures\DataStructuresIntro\obj\Debug\DataStructuresIntro.pdb
+C:\Users\VisitorDL8\Documents\GitHub\DataStructures\DataStructuresIntro\bin\Debug\DataStructuresIntro.exe
+C:\Users\VisitorDL8\Documents\GitHub\DataStructures\DataStructuresIntro\bin\Debug\DataStructuresIntro.pdb
+C:\Users\VisitorDL8\Documents\GitHub\DataStructures\DataStructuresIntro\obj\Debug\DataStructuresIntro.csprojResolveAssemblyReference.cache

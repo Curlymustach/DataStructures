@@ -8,7 +8,10 @@ namespace DataStructuresIntro
 {
     class Program
     {
-        //Hello
+        //Queue
+        //first in first out basis
+        //Enqueue, Dequeue, Peek
+
         static int Fibb(int a, int b, int max)
         {
 
@@ -72,6 +75,10 @@ namespace DataStructuresIntro
             stack.Pop();
             Console.WriteLine("New List:");
             stack.Print();
+
+            //Console.WriteLine("Peek:");
+            //Console.WriteLine("{0}", stack.Peek());
+            
 
            // Console.WriteLine("\n{0}", stack.Peek());
 

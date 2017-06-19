@@ -11,27 +11,34 @@ namespace DataStructuresIntro
      {
         LinkedList<T> stack = new LinkedList<T>();
         //Node<T> top;
-        int count;
+        public int Count
+        {
+            get
+            {
+                return stack.count;
+            }
+        }
+
         public Stack()
         {
-            count = 0;
         }
 
         public void Push(T value)
         {
             stack.Add(value);
-            count++;
         }
 
-        public void Pop()
+        public T Pop()
         {
-            if(count == 0)
+            if (Count == 0)
             {
                 throw new IndexOutOfRangeException();
             }
             else
             {
+                T item = stack.head.Value;
                 stack.Remove(stack.head);
+                return item;
             }
         }
 
@@ -42,7 +49,15 @@ namespace DataStructuresIntro
 
         public T Peek()
         {
-            return stack.head.Prev.Value;
+            if(Count == 0)
+            {
+                throw new IndexOutOfRangeException();
+            }
+            else
+            {
+                return stack.head.Value;
+            }
+                
         }
     }
 }
