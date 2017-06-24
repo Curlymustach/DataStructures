@@ -62,11 +62,13 @@ namespace DataStructuresIntro
 
             //LinkedList<int> List = new LinkedList<int>();
             Stack<int> stack = new Stack<int>();
+            Queue<int> queue = new Queue<int>();
+        
             Random random = new Random();
 
             for (int count = 0; count < 2; count++)
             {
-                stack.Push(count);
+               stack.Push(count);
             }
 
             Console.WriteLine("List:");
@@ -75,6 +77,7 @@ namespace DataStructuresIntro
             stack.Pop();
             Console.WriteLine("New List:");
             stack.Print();
+            Console.WriteLine("");
 
             //Console.WriteLine("Peek:");
             //Console.WriteLine("{0}", stack.Peek());

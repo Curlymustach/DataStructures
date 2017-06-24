@@ -125,10 +125,18 @@ namespace DataStructuresIntro
 
         public void Remove(Node<T> node)
         {
-
             if (node.Prev == head && node.Next == head)
             {
-                head = null;
+                if (node == tail)
+                {
+                    node.Prev.Next = node.Next;
+                    node.Next.Prev = node.Prev;
+                    tail = tail.Next;
+                }
+                else
+                {
+                    head = null;
+                }
             }
             else if(node == head)
             {                

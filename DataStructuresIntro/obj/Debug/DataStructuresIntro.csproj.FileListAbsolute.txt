@@ -16,3 +16,9 @@ C:\Users\VisitorDL8\Documents\GitHub\DataStructures\DataStructuresIntro\obj\Debu
 C:\Users\VisitorDL8\Documents\GitHub\DataStructures\DataStructuresIntro\bin\Debug\DataStructuresIntro.exe
 C:\Users\VisitorDL8\Documents\GitHub\DataStructures\DataStructuresIntro\bin\Debug\DataStructuresIntro.pdb
 C:\Users\VisitorDL8\Documents\GitHub\DataStructures\DataStructuresIntro\obj\Debug\DataStructuresIntro.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL7\Documents\Github\DataStructures\DataStructuresIntro\bin\Debug\DataStructuresIntro.exe.config
+C:\Users\VisitorDL7\Documents\Github\DataStructures\DataStructuresIntro\obj\Debug\DataStructuresIntro.exe
+C:\Users\VisitorDL7\Documents\Github\DataStructures\DataStructuresIntro\obj\Debug\DataStructuresIntro.pdb
+C:\Users\VisitorDL7\Documents\Github\DataStructures\DataStructuresIntro\bin\Debug\DataStructuresIntro.exe
+C:\Users\VisitorDL7\Documents\Github\DataStructures\DataStructuresIntro\bin\Debug\DataStructuresIntro.pdb
+C:\Users\VisitorDL7\Documents\Github\DataStructures\DataStructuresIntro\obj\Debug\DataStructuresIntro.csprojResolveAssemblyReference.cache

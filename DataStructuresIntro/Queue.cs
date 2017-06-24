@@ -20,6 +20,7 @@ namespace DataStructuresIntro
 
         public Queue()
         {
+            queue = new LinkedList<T>();
         }
 
         public void Enqueue(T value)
@@ -27,19 +28,19 @@ namespace DataStructuresIntro
             queue.Add(value);
         }
 
-        //public T Dequeue()
-        //{
-        //    if (Count == 0)
-        //    {
-        //        throw new IndexOutOfRangeException();
-        //    }
-        //    else
-        //    {
-        //        T item = queue.tail.Value();
-        //        queue.Remove(queue.tail);
-        //        return item;
-        //    }
-        //}
+        public T Dequeue()
+        {
+            if (Count == 0)
+            {
+                throw new IndexOutOfRangeException();
+            }
+            else
+            {
+                T item = queue.head.Value;
+                queue.Remove(queue.head);
+                return item;
+            }
+        }
 
         public bool IsEmpty()
         {
@@ -66,7 +67,7 @@ namespace DataStructuresIntro
             }
             else
             {
-                return (queue.tail.Value);
+                return (queue.head.Value);
             }
             
         }

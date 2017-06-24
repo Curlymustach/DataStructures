@@ -19,6 +19,7 @@ namespace DataStructuresIntro
             }
         }
 
+
         public Stack()
         {
         }
@@ -36,8 +37,8 @@ namespace DataStructuresIntro
             }
             else
             {
-                T item = stack.head.Value;
-                stack.Remove(stack.head);
+                T item = stack.tail.Value;
+                stack.Remove(stack.tail);
                 return item;
             }
         }
@@ -55,7 +56,7 @@ namespace DataStructuresIntro
             }
             else
             {
-                return stack.head.Value;
+                return stack.tail.Value;
             }
                 
         }
